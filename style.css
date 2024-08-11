@@ -1,0 +1,27 @@
+h1{
+    color: rgba(251, 255, 0, 0.885);
+    background-color: #0c7489;
+    text-align: center;
+}
+body{
+    background-color: rgb(97, 29, 29);
+}
+#navbar{
+    background-color: black;
+    color:white;
+    height: 50px;
+}
+a{
+    margin-right: 225px;
+    color: cornflowerblue;
+    font-size: 18px;
+}
+button{
+    background-color: yellow;
+    color:black;
+}
+#logo{
+    color: darkorange;
+    font-size: 25px;
+}
+
